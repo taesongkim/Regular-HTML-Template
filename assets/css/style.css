@@ -7,3 +7,9 @@ Description: HTML5 Wordpress Theme. The editable CSS file is under assets/css/st
 Version: 1.5
 
 */
+
+*
+{
+      margin: 0%;
+      padding: 0%;
+}
